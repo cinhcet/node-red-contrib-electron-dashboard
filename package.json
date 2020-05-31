@@ -1,0 +1,27 @@
+{
+  "name": "red-contrib-electron-dashboard",
+  "version": "0.0.1",
+  "description": "View your node-red-dashboards in an electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "7.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cinhcet/node-red-contrib-electron-dashboard.git"
+  },
+  "keywords": [
+    "node-red",
+    "electron",
+    "dashboard"
+  ],
+  "author": "cinhcet",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/cinhcet/node-red-contrib-electron-dashboard/issues"
+  },
+  "homepage": "https://github.com/cinhcet/node-red-contrib-electron-dashboard#readme"
+}
